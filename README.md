@@ -23,6 +23,8 @@ This is the situation where i came.
 💠Gross Sales 💠pre-invoice deductions 💠Net invoice sales 💠post-invoice deductions 💠Net sales 
 💠Cogs-Cost of goods sold 💠Gross Margin 💠YTD-year to date 💠YTG-Year to go 💠Fiscal Year
 
-## power bi Live Dashboard :: https://app.powerbi.com/view?r=eyJrIjoiOTNmNTkwMDMtZGYyZC00NTdhLWJkMDUtZWZhYTI4N2M2NTliIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+## power bi Live Dashboard :: 
+https://app.powerbi.com/view?r=eyJrIjoiOTNmNTkwMDMtZGYyZC00NTdhLWJkMDUtZWZhYTI4N2M2NTliIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
-## Video Presentation :: https://www.youtube.com/watch?v=l4xccmS60vI
+## Video Presentation :: 
+https://www.youtube.com/watch?v=l4xccmS60vI
