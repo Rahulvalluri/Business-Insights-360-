@@ -2,7 +2,7 @@
 
 ![Screenshot 2024-07-06 132956](https://github.com/Rahulvalluri/Business-Insights-360-/assets/138836034/1829d537-bd3b-40be-be2b-7983f285af42)
 
-## About Company ::
+## OverView ::
 Atliq is a fast growing hardware company it sells multiple products to  different customers over the world .
 Atliq face losses in recent years .so atliq wants data analytics team to create meaningfull insigts by creating amazing dashboards.
 This is the situation where i came.
