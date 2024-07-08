@@ -4,7 +4,7 @@
 
 ## OverView ::
 Atliq is a fast growing hardware company it sells multiple products to  different customers over the world .
-Atliq face losses in recent years .so atliq wants data analytics team to create meaningfull insigts by creating amazing dashboards.
+Atliq face losses in recent years because of insufficient insights.so atliq wants data analytics team to create meaningfull insights by creating amazing dashboards.
 This is the situation where i came.
 
 ## Tools Used ::
